@@ -1,7 +1,7 @@
 <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
         <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-          <a class="navbar-brand brand-logo" href="{{ route('admin.dashboard.index') }}"><h1 class="m-0 display-5 font-weight-semi-bold border border-white"><span class="text-primary font-weight-bold border px-3 mr-1">E</span>Shopper</h1></a>
-          <a class="navbar-brand brand-logo-mini" href="{{ route('admin.dashboard.index') }}"><h1 class="m-0 display-5 font-weight-semi-bold border border-white"><span class="text-primary font-weight-bold border px-3 mr-1">E</span></h1></a>
+          <a class="navbar-brand brand-logo" href="{{ route('admin.dashboard.index') }}"><h1 class="m-0 display-5 font-weight-semi-bold border border-white"><span class="text-primary font-weight-bold border px-3 mr-1">Classy Shop</h1></a>
+          <a class="navbar-brand brand-logo-mini" href="{{ route('admin.dashboard.index') }}"><h1 class="m-0 display-5 font-weight-semi-bold border border-white"><span class="text-primary font-weight-bold border px-3 mr-1">CShop</span></h1></a>
         </div>
         <div class="navbar-menu-wrapper d-flex align-items-stretch">
           <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">

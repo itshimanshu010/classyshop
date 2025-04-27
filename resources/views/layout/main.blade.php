@@ -8,7 +8,7 @@
   <!-- Basic Page Needs
   ================================================== -->
   <meta charset="utf-8">
-  <title>E-commerce</title>
+  <title>Classy Shop</title>
 
   <!-- Mobile Specific Metas
   ================================================== -->
